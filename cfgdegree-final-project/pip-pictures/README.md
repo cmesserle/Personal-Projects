@@ -40,4 +40,4 @@ My personal contributions include the following:
 - [index.js](https://github.com/cmesserle/Personal-Projects/blob/main/cfgdegree-final-project/pip-pictures/src/index.js)
 - [main.js](https://github.com/cmesserle/Personal-Projects/blob/main/cfgdegree-final-project/pip-pictures/src/main.js)
 - [Login](https://github.com/cmesserle/Personal-Projects/tree/main/cfgdegree-final-project/pip-pictures/src/Login)
-- [server](https://github.com/cmesserle/Personal-Projects/tree/main/cfgdegree-final-project/pip-pictures/server) (index.js - everything up to line 137)
+- [server](https://github.com/cmesserle/Personal-Projects/tree/main/cfgdegree-final-project/pip-pictures/server) (everything except after line 137 in index.js)
