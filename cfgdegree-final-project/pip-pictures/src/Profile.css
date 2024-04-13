@@ -1,0 +1,46 @@
+ .watched-films h2 {
+    margin-bottom: 10px; 
+  }
+
+  .films-table td:first-child {
+    width: 50%; 
+  }
+  .films-table h4 {
+    margin-bottom: -25px;
+  }
+  .StyledButton1 {
+    background-color:#FFEC3E;
+    color: #353131;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  .StyledButton1:hover {
+    background-color: #353131;
+    color: #FFEC3E;
+  }
+
+  .StyledButton1 + .StyledButton1 {
+    margin-left: 10px;
+  }
+ 
+  .profile-box {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .profile-box > * {
+    margin: 20px;
+    flex: 0 0 auto;
+    width: 400px;
+    height: auto;
+  }
+  .profile-box h4 {
+    margin-bottom: 20px;
+  }
+  
