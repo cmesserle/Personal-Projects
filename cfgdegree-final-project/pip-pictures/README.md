@@ -25,22 +25,19 @@ To run the app in development run in terminal:
 npm start
 ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+A browser window should open up automatically but if not, open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload when you make changes. You may also see any lint errors in the console.
 
 ### Credit
 
-This web app was a group effort submitted as our final project for the CFGDegree Full Stack Software Engineering Spring 2023 bootcamp.  We collectively put in 156.5 hours of work over 30 days alongside lessons, course work, exam prep, our day jobs and other life responsibilities.
+This web app was a group effort submitted as our final project for the CFGDegree Full Stack Software Engineering Spring 2023 bootcamp.  We collectively put in **156.5** hours of work over 30 days alongside lessons, course work, exam prep, our day jobs and other life responsibilities.
 
 My personal contributions include the following:
-- pip-db.sql
-- Hero.jsx
-- App.js
-- index.js
-- main.js
-- Login
-- signUp.js
-- server (index.js - everything up to line 137)
+- [pip-db.sql](https://github.com/cmesserle/Personal-Projects/blob/main/cfgdegree-final-project/pip-pictures/pip-db.sql)
+- [Hero.jsx](https://github.com/cmesserle/Personal-Projects/blob/main/cfgdegree-final-project/pip-pictures/src/Hero.jsx)
+- [App.js](https://github.com/cmesserle/Personal-Projects/blob/main/cfgdegree-final-project/pip-pictures/src/App.js)
+- [index.js](https://github.com/cmesserle/Personal-Projects/blob/main/cfgdegree-final-project/pip-pictures/src/index.js)
+- [main.js](https://github.com/cmesserle/Personal-Projects/blob/main/cfgdegree-final-project/pip-pictures/src/main.js)
+- [Login](https://github.com/cmesserle/Personal-Projects/tree/main/cfgdegree-final-project/pip-pictures/src/Login)
+- [server](https://github.com/cmesserle/Personal-Projects/tree/main/cfgdegree-final-project/pip-pictures/server) (index.js - everything up to line 137)
